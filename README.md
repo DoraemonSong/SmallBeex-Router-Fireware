@@ -17,15 +17,15 @@ SmallBeeX固件采用授权激活方式，授权费用0.01元（一分钱），�
 ![](https://nap6.com/uploads/nap/shop.png)
 
 * 微信公众号：smallbeex
-* 官方网站：[https://smallbeex.com](https://nap6.com)
+* 官方网站：[https://smallbeex.com](https://smallbeex.com)
 * 官方论坛：[https://nap6.com](https://nap6.com)
 
 # 固件安装和使用
 
 #### 下载渠道
 
-* 从GitHub下载最新固件：https://github.com/GaryFan/smallbeex
-* 官网下载：https://nap6.com/thread-5373-1-1.html
+* 从GitHub下载最新固件：[https://github.com/GaryFan/smallbeex](https://github.com/GaryFan/smallbeex)
+* 官网下载：[https://nap6.com/thread-5373-1-1.html](https://nap6.com/thread-5373-1-1.html)
 * 网盘下载：[http://t.cn/EbSxFb4](http://t.cn/EbSxFb4)
 * 第三方网友贡献：[https://file.swei.us/home/SmallBeex_Fireware](https://file.swei.us/home/SmallBeex_Fireware)
 
