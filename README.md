@@ -1,13 +1,38 @@
+# 固件市场现状
 目前华硕和网件两个高端品牌路由器的第三方固件状况错综复杂，比较混乱，单单梅林就有三四个衍生版本，纷杂错乱的固件状况，会导致第三方固件没有固定的更新周期、无法及时修复用户反馈的问题、无法保证固件的稳定性和低延迟性，更无法给用户带来更好的体验。
+
 为了解决路由器的长期运行的稳定性、PING低延迟性、以及CPU、RAM的良性优化，我们决定推出SmallBeeX固件。
-#固件说明
-SmallBeeX 固件定位：稳定、精简、强扩展性。
+
+# SmallBeex固件说明
+SmallBeeX 固件定位：*稳定、精简、强扩展性*
+
 SmallBeeX 具有全新的WiFi优化算法、CPU、RAM的动态调节技术、USB存储检测算法、高I/O优化算法、脚本编辑和运行能力、TelNet/SSH连接访问、支持二次开发的全新开源性固件。
-500万次PING 丢包率为0% ！！！  ￼￼￼
+
+*500万次PING 丢包率为0% ！！！*
+
 SmallBeeX固件采用授权激活方式，授权费用0.01元（一分钱），未激活的固件会有使用受限。
-同时，我们也推出了VIP收费项目（刷机后固件内申请）：36.5元/年（0.1元/天），VIP特权详情详见固件VIP页面介绍，VIP的特权会随着时间的推移越来越多~也会不定期在VIP群体中发送彩蛋~
-更新周期：每半个月更新一次final版本，不定期更新Beta内部测试版本（只有加入我们的VIP才可获取内部测试版本）。
-#固件支持的路由型号
+
+# 联系我们
+
+* 微信公众号：smallbeex
+* 官方网站：[https://smallbeex.com](https://nap6.com)
+* 官方论坛：[https://nap6.com](https://nap6.com)
+
+# 其他下载渠道
+* 网盘下载：[http://t.cn/EbSxFb4](http://t.cn/EbSxFb4)
+* 第三方网友贡献：[https://file.swei.us/home/SmallBeex_Fireware](https://file.swei.us/home/SmallBeex_Fireware)
+
+# 固件更新周期
+1. final版本每两周更新一次
+2. 内部测试的Beta版本不定期更新
+
+# 安装方法
+请参考：[`https://nap6.com/thread-482-1-1.html`](https://nap6.com/thread-482-1-1.html)
+
+*科学上网插件需手动安装，系统不自带*
+
+# 固件支持的路由型号
 RT-AC66U / RT-AC66U B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT-AC68UF (including HW revision C1 and E1) / RT-AC1900 & RT-AC1900P (与RT-AC68U通用) / RT-AC87U / RT-AC3200 / RT-AC88U / RT-AC3100 / RT-AC5300 / RT-AC86U / RT-AC2900 (与RT-AC86U通用)
-####注意
+
+#### 注意
 华硕机器中的所有“R”标记版本（如：RT-AC66R）和其他相同型号的“U”标记版本配置是一样的，只是针对不同饿零售商，“U”、“R”版本固件100%兼容通用，“W”标识版本，代表该机器外壳为白色。
