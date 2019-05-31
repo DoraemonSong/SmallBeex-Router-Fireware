@@ -51,5 +51,3 @@ RT-AC66U / RT-AC66U B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT
 SmallBeex固件做了较大功能性更新和功能调整，升级之前请先备份路由器设置！！刷机有风险，请谨慎！！！！
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/8hw7zkjdnWa0s09tSYaXq5tpj4dSkpra9fvK4ss6p7FrCFp9iaIFzqLMsia7qlh5244B0xZQDxPpkJMmk80QaAYA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-2345235驱蚊efrewfads
